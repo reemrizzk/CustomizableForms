@@ -33,6 +33,7 @@ form.formHeader.BackColor = Color.Navy; // Sets the header's color to Navy
 ![alt text](https://user-images.githubusercontent.com/50383558/159681299-b8c420ff-4327-4be4-89f2-5d408939b134.png)
 
 Customized form examples:
+
 Dark form
 
 ![alt text](https://user-images.githubusercontent.com/50383558/159679367-f9f23d08-9efc-4fc5-8705-990d2e21f33e.png)
