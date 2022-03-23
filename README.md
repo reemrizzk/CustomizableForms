@@ -1,17 +1,19 @@
 # CustomizableForms
 A C# WinForms library for Forms with a customizable header and border
 
-How to install to your project:
+**How to install to your project:**
+
 -Open Microsoft Visual Studio and create/open a project
 -Add reference to the file CustomizableForms.dll to your project
 
-How to use:
+**How to use:**
+
 -To create a Form with a customizable header and border, extend the class CustomizableForm:
 ```C#
 public partial class YourFormName : CustomizableForms.CustomizableForm
 ```
 
-Example for customizing a form:
+**Example for customizing a form:**
 
 ```C#
 CustomizableForms.CustomizableForm form = new CustomizableForms.CustomizableForm();
@@ -28,14 +30,14 @@ form.ShowIcon = false; // Hides icon from the form's header
 form.formHeader.BackColor = Color.Navy; // Sets the header's color to Navy
 ```
 
--In the properties section for the form: Additional new properties are added:
+**In the properties section for the form, Additional new properties are added:**
 
 ![alt text](https://user-images.githubusercontent.com/50383558/159681299-b8c420ff-4327-4be4-89f2-5d408939b134.png)
 
 You can also add a MenuStrip to the formHeader panel. In the editor, drag a MenuStrip to the formHeader panel, set it's Dock property to DockStyle.Left, and set it's LayoutStyle property to HorizontalStackWithOverflow
 
 
-Customized form examples:
+**Customized form examples:**
 
 Dark form
 
