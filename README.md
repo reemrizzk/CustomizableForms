@@ -4,6 +4,7 @@ A C# WinForms library for Forms with a customizable header and border
 **How to install to your project:**
 
 -Open Microsoft Visual Studio and create/open a project
+
 -Add reference to the file CustomizableForms.dll to your project
 
 **How to use:**
