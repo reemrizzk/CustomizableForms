@@ -32,6 +32,9 @@ form.formHeader.BackColor = Color.Navy; // Sets the header's color to Navy
 
 ![alt text](https://user-images.githubusercontent.com/50383558/159681299-b8c420ff-4327-4be4-89f2-5d408939b134.png)
 
+You can also add a MenuStrip to the formHeader panel. In the editor, drag a MenuStrip to the formHeader panel, set it's Dock property to DockStyle.Left, and set it's LayoutStyle property to HorizontalStackWithOverflow
+
+
 Customized form examples:
 
 Dark form
