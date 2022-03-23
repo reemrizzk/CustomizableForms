@@ -31,7 +31,7 @@ form.ShowIcon = false; // Hides icon from the form's header
 form.formHeader.BackColor = Color.Navy; // Sets the header's color to Navy
 ```
 
-**In the properties section for the form, Additional new properties are added:**
+**In the properties section of the form, Additional new properties are added:**
 
 ![alt text](https://user-images.githubusercontent.com/50383558/159681299-b8c420ff-4327-4be4-89f2-5d408939b134.png)
 
