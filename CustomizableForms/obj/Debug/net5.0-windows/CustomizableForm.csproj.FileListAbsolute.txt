@@ -1,8 +1,0 @@
-C:\Users\hp\source\repos\CustomizableForms\CustomizableForms\obj\Debug\net5.0-windows\CustomizableForm.csproj.AssemblyReference.cache
-C:\Users\hp\source\repos\CustomizableForms\CustomizableForms\obj\Debug\net5.0-windows\CustomizableForms.CustomizableForm.resources
-C:\Users\hp\source\repos\CustomizableForms\CustomizableForms\obj\Debug\net5.0-windows\CustomizableForm.Properties.Resources.resources
-C:\Users\hp\source\repos\CustomizableForms\CustomizableForms\obj\Debug\net5.0-windows\CustomizableForm.csproj.GenerateResource.cache
-C:\Users\hp\source\repos\CustomizableForms\CustomizableForms\obj\Debug\net5.0-windows\CustomizableForm.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\hp\source\repos\CustomizableForms\CustomizableForms\obj\Debug\net5.0-windows\CustomizableForm.AssemblyInfoInputs.cache
-C:\Users\hp\source\repos\CustomizableForms\CustomizableForms\obj\Debug\net5.0-windows\CustomizableForm.AssemblyInfo.cs
-C:\Users\hp\source\repos\CustomizableForms\CustomizableForms\obj\Debug\net5.0-windows\CustomizableForm.csproj.CoreCompileInputs.cache
