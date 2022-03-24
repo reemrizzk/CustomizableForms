@@ -1,6 +1,14 @@
 # CustomizableForms
 A C# WinForms library for Forms with a customizable header and border
 
+**Update 24/3/2022:**
+
+What's new:
+
+- Added diagnoal resizing
+- Fixed a bug where maximized form used to cover the taskbar
+- Added Form demo to the repository
+
 **How to install to your project:**
 
 -Open Microsoft Visual Studio and create/open a project
@@ -33,7 +41,7 @@ form.formHeader.BackColor = Color.Navy; // Sets the header's color to Navy
 
 **In the properties section of the form, Additional new properties are added:**
 
-![alt text](https://user-images.githubusercontent.com/50383558/159681299-b8c420ff-4327-4be4-89f2-5d408939b134.png)
+![alt text](https://user-images.githubusercontent.com/50383558/159855405-a0205cee-75d8-4f91-a098-77f1a06721c0.png)
 
 You can also add a MenuStrip to the formHeader panel. In the editor, drag a MenuStrip to the formHeader panel, set it's Dock property to DockStyle.Left, and set it's LayoutStyle property to HorizontalStackWithOverflow
 
