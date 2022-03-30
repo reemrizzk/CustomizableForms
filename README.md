@@ -1,6 +1,8 @@
 # CustomizableForms
 A C# WinForms library for Forms with a customizable header and border
 
+Targets .Net 5.0
+
 **Update 24/3/2022:**
 
 What's new:
